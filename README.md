@@ -8,7 +8,7 @@
 ![Context](https://img.shields.io/badge/Focus-Movement%20Ecology-orange)
 
 ## 🔗 Live Tutorial
-**[Click here to view the full Workshop Tutorial & Handout](Lecture/Remote_sensing.pdf)**
+**[Click here to view the full Workshop Tutorial & Handout](https://str1ng-th3ory.github.io/PKU-Movement-Ecology-Workshophop/)**
 
 ## 📖 Overview
 This repository contains the instructional materials and code designed for the **"Selecting, Obtaining, and Manipulating Remote Sensing Data"** module.
